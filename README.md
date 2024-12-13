@@ -28,7 +28,7 @@ This project aims to:
 
 This repository contains the following key files:
 
-- **`cnn_model.py`**: Python file containing the CNN implementation and training logic.
+- **`CNN for Image Classification.ipynb`**: Python file containing the CNN implementation and training logic.
 - **`dataset/training_set`**: Directory containing the training images categorized into two folders: `cats` and `dogs`.
 - **`dataset/test_set`**: Directory containing the test images categorized into two folders: `cats` and `dogs`.
 - **`dataset/single_prediction`**: Directory with sample images for single prediction testing.
