@@ -73,6 +73,8 @@ This repository contains the following key files:
 - A function is implemented to load a single image, preprocess it, and predict whether the image contains a cat or a dog.
 
 ## 5. Results
+The main findings of the code can be found at the post on Medium available <a href="https://medium.com/@wksay2011/convolutional-neural-network-cnn-cat-vs-dog-classification-446376ece4f5" target="_blank">here</a>
+
 
 ### Training Results:
 - The model achieved a training accuracy of approximately 86.26% and a validation accuracy of 80.10% after 25 epochs.
